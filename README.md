@@ -148,11 +148,12 @@ Ultimately, I see programming as both an art and a science — a craft I’m com
 ## 📊 GitHub Profile Highlights
 
 <p align="center">
-  <img alt="GitHub Profile Stats" src="https://github-readme-stats.vercel.app/api?username=mohammad-al-amin-shanto&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="600" />
+  <img alt="GitHub Profile Stats" src="https://github-readme-stats.vercel.app/api?username=mohammad-al-amin-shanto&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&v=1
+" width="600" />
 </p>
 
 <p align="center">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-al-amin-shanto&layout=compact&theme=tokyonight&hide_border=true" width="400" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-al-amin-shanto&layout=compact&theme=tokyonight&hide_border=true&v=1" width="400" />
 </p>
 
 <p align="center">
