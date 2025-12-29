@@ -148,26 +148,26 @@ Ultimately, I see programming as both an art and a science — a craft I’m com
 ## 📊 GitHub Profile Highlights
 
 <p align="center">
-  <img alt="GitHub Profile Stats" src="https://github-readme-stats.vercel.app/api?username=alamin-shanto&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="600" />
+  <img alt="GitHub Profile Stats" src="https://github-readme-stats.vercel.app/api?username=mohammad-al-amin-shanto&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="600" />
 </p>
 
 <p align="center">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alamin-shanto&layout=compact&theme=tokyonight&hide_border=true" width="400" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-al-amin-shanto&layout=compact&theme=tokyonight&hide_border=true" width="400" />
 </p>
 
 <p align="center">
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=alamin-shanto&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="500" />
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=mohammad-al-amin-shanto&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="500" />
 </p>
 
 <p align="center">
-  <img alt="GitHub Contributions Calendar" src="https://github-readme-activity-graph.vercel.app/graph?username=alamin-shanto&theme=react-dark&area=true&hide_border=true" width="600" />
+  <img alt="GitHub Contributions Calendar" src="https://github-readme-activity-graph.vercel.app/graph?username=mohammad-al-amin-shanto&theme=react-dark&area=true&hide_border=true" width="600" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alamin-shanto&label=Profile%20Visitors&color=brightgreen&style=for-the-badge" alt="Profile Visitors" />
-  <img src="https://img.shields.io/github/followers/alamin-shanto?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=mohammad-al-amin-shanto&label=Profile%20Visitors&color=brightgreen&style=for-the-badge" alt="Profile Visitors" />
+  <img src="https://img.shields.io/github/followers/mohammad-al-amin-shanto?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers" />
 </p>
 
 
@@ -175,8 +175,8 @@ Ultimately, I see programming as both an art and a science — a craft I’m com
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <a href="https://github.com/alamin-shanto/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=alamin-shanto&theme=onedark&margin-w=10&margin-h=10&column=6" alt="GitHub Trophies" />
+  <a href="https://github.com/mohammad-al-amin-shanto/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=mohammad-al-amin-shanto&theme=onedark&margin-w=10&margin-h=10&column=6" alt="GitHub Trophies" />
   </a>
 </p>
 
@@ -187,10 +187,10 @@ Ultimately, I see programming as both an art and a science — a craft I’m com
 ## 📫 Connect with Me  
 
 <p align="center">
-  <a href="https://github.com/alamin-shanto" target="_blank" rel="noopener noreferrer" title="GitHub Profile">
+  <a href="https://github.com/mohammad-al-amin-shanto" target="_blank" rel="noopener noreferrer" title="GitHub Profile">
     <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/mash02" target="_blank" rel="noopener noreferrer" title="LinkedIn Profile">
+  <a href="https://www.linkedin.com/in/mohammad-al-amin-shanto" target="_blank" rel="noopener noreferrer" title="LinkedIn Profile">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:mash.dev02@gmail.com" target="_blank" rel="noopener noreferrer" title="Send me an Email">
