@@ -10,13 +10,13 @@
 
 ## 🚀 About Me
 
-I am a passionate and detail-driven web developer dedicated to crafting **seamless, intuitive**, and **highly impactful** digital experiences that truly resonate with users. With a strong command of React.js, I build fast, dynamic, and visually compelling frontends that deliver exceptional user engagement. Confident in Express.js, I design and implement robust backend APIs, and I am currently investing deeply in mastering Next.js to elevate performance, scalability, and SEO of modern web applications.
+I’m a passionate, detail-oriented web developer dedicated to building **seamless, intuitive** and **impactful** digital experiences that genuinely serve users. With strong expertise in React.js, I create fast, dynamic, and visually engaging interfaces that deliver smooth interaction and great usability. I’m confident working with Express.js to design reliable backend APIs, and I’m actively mastering Next.js to improve performance, scalability, and SEO across modern web applications.
 
-Having solidified my expertise in frontend development, I am now fully immersed in backend engineering, driven by a genuine passion for **problem solving** and creating clean, efficient, and scalable solutions that address real-world challenges. I thrive at the intersection of creativity and logic, transforming complex problems into elegant, maintainable code that empowers users and businesses alike.
+After building a solid foundation in frontend development, I’ve expanded deeply into backend engineering — driven by a love for **problem-solving** and writing clean, efficient, and scalable code for real-world use cases. I enjoy working where creativity meets logic, turning complex challenges into elegant, maintainable solutions that help both users and businesses succeed.
 
-I continuously evolve my skillset by embracing cutting-edge technologies and industry best practices, ensuring every project I deliver is innovative, reliable, and future-proof. My approach balances meticulous attention to detail with big-picture thinking, enabling me to build software that not only meets but exceeds expectations.
+I continuously sharpen my skills by exploring new technologies, refining best practices, and staying aligned with industry standards — ensuring every project is innovative, stable, and future-ready. My approach blends attention to detail with big-picture thinking, allowing me to create software that not only functions well, but also grows smoothly over time.
 
-Ultimately, I view programming as both an art and a science — a craft I’m deeply committed to refining every day to build meaningful, user-centric applications that make a difference.
+Ultimately, I see programming as both an art and a science — a craft I’m committed to improving every day — with the goal of building meaningful, user-focused applications that truly make a difference.
 
 ---
 
