@@ -3,7 +3,7 @@
   <img src="https://github.com/user-attachments/assets/c10a5a13-35f9-4617-94bd-c95eda4e7da1" alt="Black Minimalist Corporate Staff Identity LinkedIn Banner" width="100%" />
 </p>
 
-<h1 align="center">👋 Hi, I'm Mohammad Al Amin</h1>
+<h1 align="center">👋 Hi, I'm Mohammad Al Amin Shanto</h1>
 <h3 align="center">🚀 Full Stack Web Developer | React.js & Next.js Enthusiast</h3>
 
 ---
